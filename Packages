@@ -1,0 +1,13 @@
+Package: com.example.exampleapp
+Version: 1.0
+Architecture: all
+Maintainer: Your Name <your@email.com>
+Filename: debs/exampleapp.deb
+Size: 968
+MD5sum: c763836924041edff930db53c58fadb0
+SHA1: 7269c9d87eb706ca1ec37b987959596e054efe75
+SHA256: cb044766f9ae5520e88f3069eca33b179bb8a0c13f694a75ba50566bfe54d459
+Description: A simple example app that displays "Hi".
+
+
+
